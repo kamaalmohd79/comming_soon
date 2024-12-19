@@ -1,9 +1,9 @@
-# Coming Soon Page
+# BEGAWN ACADEMY - Coming Soon Page
 
-This repository contains a simple "Coming Soon" page that you can deploy to any sub-domain.
+This repository contains the "Coming Soon" page for BEGAWN ACADEMY.
 
 ## Deployment
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/coming-soon-page.git
+   git clone https://github.com/yourusername/begawn-academy-coming-soon.git
